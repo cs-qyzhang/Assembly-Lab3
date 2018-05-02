@@ -54,4 +54,7 @@
       <Filter>源文件</Filter>
     </MASM>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="data.dat" />
+  </ItemGroup>
 </Project>
